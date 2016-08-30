@@ -19,6 +19,10 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
+        
+        //this is my second commit!!!!
+        //this wil be shown  only after i commit!!!!!
+        
         next = (Button) findViewById(R.id.button1);
         
         
