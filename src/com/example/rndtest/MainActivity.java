@@ -23,6 +23,8 @@ public class MainActivity extends ActionBarActivity {
         //this is my second commit!!!!
         //this wil be shown  only after i commit!!!!!
         
+        //third commit by hrishi
+        
         next = (Button) findViewById(R.id.button1);
         
         
